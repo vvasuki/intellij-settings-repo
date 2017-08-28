@@ -1,0 +1,45 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js|</mask>
+      <mask>*.js</mask>
+      <mask>*.js *</mask>
+      <mask>*.js *.</mask>
+      <mask>*.js *.ht</mask>
+      <mask>*.js *.htm</mask>
+      <mask>*.js *.html</mask>
+      <mask>*.js|*.html</mask>
+      <mask>*.js*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.iml</mask>
+      <mask>*.im</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xmn</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.md</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
+  </component>
+</application>

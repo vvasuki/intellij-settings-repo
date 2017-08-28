@@ -1,0 +1,187 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_121&quot;" />
+      <homePath value="/usr/share/jdk1.8.0_121" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/src.zip!/" />
+            <root type="simple" url="jar:///usr/share/jdk1.8.0_121/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 25 Platform" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Android/Sdk/platforms/android-25/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Android/Sdk/platforms/android-25/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Android/Sdk/sources/android-25" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-25" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12+ (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
+            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-28.8.0-py2.7.egg!/" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-1247972723" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Perl v5.22.2 (x86_64-linux-gnu-thread-multi)" />
+      <type value="Perl5 Interpreter" />
+      <version value="v5.24.1 (x86_64-linux-gnu-thread-multi)" />
+      <homePath value="/usr/bin" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///etc/perl" />
+            <root type="simple" url="file:///usr/lib/x86_64-linux-gnu/perl5/5.22" />
+            <root type="simple" url="file:///usr/share/perl5" />
+            <root type="simple" url="file:///usr/lib/x86_64-linux-gnu/perl/5.22" />
+            <root type="simple" url="file:///usr/share/perl/5.22" />
+            <root type="simple" url="file:///usr/lib/x86_64-linux-gnu/perl-base" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file:///etc/perl" />
+            <root type="simple" url="file:///usr/lib/x86_64-linux-gnu/perl5/5.22" />
+            <root type="simple" url="file:///usr/share/perl5" />
+            <root type="simple" url="file:///usr/lib/x86_64-linux-gnu/perl/5.22" />
+            <root type="simple" url="file:///usr/share/perl/5.22" />
+            <root type="simple" url="file:///usr/lib/x86_64-linux-gnu/perl-base" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 (/usr/bin/python3.5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="/usr/bin/python3.5" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.5/dist-packages" />
+            <root type="simple" url="file:///usr/local/lib/python3.5/dist-packages/pip-9.0.1-py3.5.egg" />
+            <root type="simple" url="file:///usr/lib/python3/dist-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-1247971764" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
