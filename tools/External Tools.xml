@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Delete RUNNING_PID file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="rm" />
+      <option name="PARAMETERS" value=" /home/vvasuki/html-2-rest/target/universal/stage/RUNNING_PID" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
