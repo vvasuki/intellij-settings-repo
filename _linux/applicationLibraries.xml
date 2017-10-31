@@ -385,66 +385,41 @@
         <root url="file:///usr/share/rubygems-integration/all/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.12+ (/usr/bin/python2.7) interpreter library">
+    <library name="Python 3.6.3 (/usr/bin/python3.6) interpreter library">
       <CLASSES>
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/local/lib/python3.6/dist-packages" />
+        <root url="file:///usr/lib/python3/dist-packages" />
+        <root url="file:///usr/lib/python3.6/dist-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-1247971763" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.5.3 (/usr/bin/python3.5) interpreter library">
-      <CLASSES>
-        <root url="file:///usr/lib/python3.5" />
-        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python3.5/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.5/dist-packages" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/local/lib/python3.6/dist-packages" />
         <root url="file:///usr/lib/python3/dist-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-1247971764" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/lib/python3.5" />
-        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python3.5/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.5/dist-packages" />
-        <root url="file:///usr/lib/python3/dist-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-1247971764" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+        <root url="file:///usr/lib/python3.6/dist-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-1247971763" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
     <library name="scala-sdk-2.11.11" type="Scala">
