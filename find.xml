@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '[vedavaapi_py_api] - /home/vvasuki/vedavaapi_py_api/vedavaapi_py_api'" />
+    <option name="defaultScopeName" value="Directory '[vedavaapi_py_api] - /home/vvasuki/vedavaapi_py_api/vedavaapi_py_api'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '[vedavaapi_py_api] - /home/vvasuki/vedavaapi_py_api/vedavaapi_py_api'" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
