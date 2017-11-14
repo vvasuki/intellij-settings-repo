@@ -10,6 +10,7 @@
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping ext="babylon_final" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="babylon" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
