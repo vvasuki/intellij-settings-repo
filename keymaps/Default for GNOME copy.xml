@@ -5,5 +5,11 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="Diff.PrevChange" />
+  <action id="Django.RunManageTaskAction" />
   <action id="PreviousTab" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction" />
 </keymap>
