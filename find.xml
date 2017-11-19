@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="api_v1.py" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.js|</mask>
@@ -27,14 +26,14 @@
       <mask>*.md</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.sca</mask>
       <mask>*.scala</mask>
       <mask>api_v1.py</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
