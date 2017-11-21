@@ -374,17 +374,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="public_suffix (v2.0.5, ruby-2.3.3-p222) [gem]">
-      <CLASSES>
-        <root url="file:///usr/share/rubygems-integration/all/gems/public_suffix-2.0.5/lib" />
-        <root url="file:///usr/share/rubygems-integration/all/gems/public_suffix-2.0.5/data" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/share/rubygems-integration/all/gems/public_suffix-2.0.5/lib" />
-        <root url="file:///usr/share/rubygems-integration/all/gems/public_suffix-2.0.5/data" />
-      </SOURCES>
-    </library>
     <library name="Python 3.6.3 (/usr/bin/python3.6) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
