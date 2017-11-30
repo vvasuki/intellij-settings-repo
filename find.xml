@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'sanskrit_data'" />
+    <option name="defaultScopeName" value="Module 'sanskrit_data'" />
+    <option name="SEARCH_SCOPE" value="Module 'sanskrit_data'" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.js|</mask>
