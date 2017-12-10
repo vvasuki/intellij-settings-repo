@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '~/sanskrit_parser/docs/ui/sanskrit_parser.js [sanskrit_parser]'" />
+    <option name="defaultScopeName" value="File '~/sanskrit_parser/docs/ui/sanskrit_parser.js [sanskrit_parser]'" />
+    <option name="SEARCH_SCOPE" value="File '~/sanskrit_parser/docs/ui/sanskrit_parser.js [sanskrit_parser]'" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.js|</mask>
