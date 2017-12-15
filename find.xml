@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '~/jyotisha/jyotisha [jyotisha]'" />
-    <option name="defaultScopeName" value="Directory '~/jyotisha/jyotisha [jyotisha]'" />
-    <option name="SEARCH_SCOPE" value="Directory '~/jyotisha/jyotisha [jyotisha]'" />
+    <option name="customScope" value="File '~/jyotisha/jyotisha/panchangam/spatio_temporal.py [jyotisha]'" />
+    <option name="defaultScopeName" value="File '~/jyotisha/jyotisha/panchangam/spatio_temporal.py [jyotisha]'" />
+    <option name="SEARCH_SCOPE" value="File '~/jyotisha/jyotisha/panchangam/spatio_temporal.py [jyotisha]'" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.js|</mask>
