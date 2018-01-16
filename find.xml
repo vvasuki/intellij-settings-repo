@@ -4,11 +4,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json,*.py" />
     <recentFileMasks>
-      <mask>api_v1.py</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.p</mask>
@@ -24,12 +26,6 @@
       <mask>*.py*.json</mask>
       <mask>*.j</mask>
       <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.json,</mask>
-      <mask>*.json,*</mask>
-      <mask>*.json,*.</mask>
-      <mask>*.json,*.p</mask>
-      <mask>*.json,*.py</mask>
       <mask>*.py</mask>
       <mask>*.py,</mask>
       <mask>*.py,*</mask>
@@ -38,6 +34,13 @@
       <mask>*.py,*.js</mask>
       <mask>*.py,*.jso</mask>
       <mask>*.py,*.json</mask>
+      <mask>\*.json</mask>
+      <mask>*.json</mask>
+      <mask>*.json,</mask>
+      <mask>*.json,*</mask>
+      <mask>*.json,*.</mask>
+      <mask>*.json,*.p</mask>
+      <mask>*.json,*.py</mask>
     </recentFileMasks>
   </component>
 </application>
