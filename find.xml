@@ -7,38 +7,37 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.js|</mask>
-      <mask>*.js *</mask>
-      <mask>*.js *.</mask>
-      <mask>*.js *.ht</mask>
-      <mask>*.js *.htm</mask>
-      <mask>*.js *.html</mask>
-      <mask>*.js|*.html</mask>
-      <mask>*.js*.html</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.iml</mask>
-      <mask>*.im</mask>
-      <mask>*.i</mask>
-      <mask>*.x</mask>
-      <mask>*.xmn</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.md</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scala</mask>
       <mask>api_v1.py</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.py *</mask>
+      <mask>*.py *.</mask>
+      <mask>*.py *.j</mask>
+      <mask>*.py *.js</mask>
+      <mask>*.py *.jso</mask>
+      <mask>*.py *.json</mask>
+      <mask>*.py| *.json</mask>
+      <mask>*.py|*.json</mask>
+      <mask>*.py*.json</mask>
+      <mask>*.j</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
+      <mask>*.json,</mask>
+      <mask>*.json,*</mask>
+      <mask>*.json,*.</mask>
+      <mask>*.json,*.p</mask>
+      <mask>*.json,*.py</mask>
+      <mask>*.py</mask>
+      <mask>*.py,</mask>
+      <mask>*.py,*</mask>
+      <mask>*.py,*.</mask>
+      <mask>*.py,*.j</mask>
+      <mask>*.py,*.js</mask>
+      <mask>*.py,*.jso</mask>
+      <mask>*.py,*.json</mask>
     </recentFileMasks>
   </component>
 </application>
