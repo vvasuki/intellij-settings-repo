@@ -1,0 +1,16 @@
+<scheme name="blackOnYellow" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-03-20T17:51:44</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.5.0.0</property>
+    <property name="modified">2018-03-20T17:52:39</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="ffef92" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
