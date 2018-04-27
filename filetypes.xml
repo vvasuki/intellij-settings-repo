@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="layout_override" type="PLAIN_TEXT" />
-      <mapping pattern="user" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping pattern="xprofile" type="PLAIN_TEXT" />
       <mapping pattern=".etckeeper" type="PLAIN_TEXT" />
       <mapping pattern=".xbindkeysrc" type="PLAIN_TEXT" />
-      <mapping pattern="xprofile" type="PLAIN_TEXT" />
+      <mapping pattern="user" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
