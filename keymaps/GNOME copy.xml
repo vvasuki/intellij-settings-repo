@@ -9,4 +9,8 @@
   </action>
   <action id="ResourceExplorer.show" />
   <action id="ServiceView.ShowServices" />
+  <action id="ShowErrorDescription" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
 </keymap>
