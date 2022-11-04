@@ -1,7 +1,14 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ChangesView.AddUnversioned" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl w" />
+  </action>
+  <action id="Diagram.DeselectAll" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Git.Stage.Add" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="GotoTest" />
   <action id="ReopenClosedTab">
@@ -17,4 +24,5 @@
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
+  <action id="hg4idea.add" />
 </keymap>
