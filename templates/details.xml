@@ -289,7 +289,7 @@
       <option name="sbt" value="false" />
     </context>
   </template>
-  <template name="vv" value="&lt;details open&gt;&lt;summary&gt;विश्वास-प्रस्तुतिः&lt;/summary&gt;&#10;&#10;$text$&#10;&lt;/details&gt;&#10;&#10;&lt;details&gt;&lt;summary&gt;मूलम्&lt;/summary&gt;&#10;&#10;$text$&#10;&lt;/details&gt;&#10;" description="source" toReformat="false" toShortenFQNames="true">
+  <template name="व्व्" value="&lt;details open&gt;&lt;summary&gt;विश्वास-प्रस्तुतिः&lt;/summary&gt;&#10;&#10;$text$&#10;&lt;/details&gt;&#10;&#10;&lt;details&gt;&lt;summary&gt;मूलम्&lt;/summary&gt;&#10;&#10;$text$&#10;&lt;/details&gt;&#10;" description="source" toReformat="false" toShortenFQNames="true">
     <variable name="text" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
