@@ -5,10 +5,10 @@
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl w" />
   </action>
   <action id="CopyAbsolutePath">
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="CopyPathFromRepositoryRootProvider">
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl alt released c" />
   </action>
   <action id="CopyPaths" />
   <action id="Diagram.DeselectAll" />
