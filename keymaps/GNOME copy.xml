@@ -11,29 +11,47 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CopyPaths" />
+  <action id="DatabaseView.DataSourceCutAction">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ApplyRightSide" />
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
   <action id="Git.Stage.Add" />
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="GotoTest" />
+  <action id="JupyterNotebookCutCellCommandModeAction">
+    <keyboard-shortcut first-keystroke="x" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="ResourceExplorer.show" />
+  <action id="Scala.SendSelectionToConsole" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ServiceView.ShowServices" />
   <action id="ShowErrorDescription" />
+  <action id="Space.Review.CreateDiffComment" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
+  <action id="UsageView.Remove">
+    <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="hg4idea.add" />
 </keymap>
