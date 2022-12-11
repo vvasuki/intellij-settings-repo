@@ -4,10 +4,10 @@
       <mapping ext="scheme" type="PLAIN_TEXT" />
       <mapping ext="rule" type="PLAIN_TEXT" />
       <mapping ext="babylon" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="requirements-pro.txt" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="requirements-pro.txt" />
     </extensionMap>
   </component>
 </application>
