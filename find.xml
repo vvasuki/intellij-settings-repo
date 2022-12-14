@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +17,7 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
-    <mask>*.py</mask>
     <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>
